@@ -1,0 +1,24 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "6c778cd2-95c2-4490-b180-02c71f9006d4"
+    python: {}
+  "autocomplete-python":
+    useKite: false
+  "bracket-matcher":
+    autocompleteBrackets: false
+  core:
+    telemetryConsent: "limited"
+    uriHandlerRegistration: "always"
+  editor: {}
+  "exception-reporting":
+    userId: "1e09d9fb-456e-40c8-866f-5c2f357bd100"
+  "linter-ui-default":
+    showPanel: true
+  minimap:
+    plugins:
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+  "python-autopep8": {}
+  welcome:
+    showOnStartup: false
